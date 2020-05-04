@@ -5,5 +5,6 @@ Visualisation de donnée de Rennes Métropole.
 
 ## Initialisation
 
-`cd Projet`
-`bokeh serve --show main.py`
+1. `cd Projet`
+
+2. `bokeh serve --show main.py`
